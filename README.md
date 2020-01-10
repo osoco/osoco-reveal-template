@@ -7,7 +7,7 @@ To write a new presentation using this template you should follow these simple s
 - ``mkdir your-presentation-home``
 - ``cd your-presentation-home``
 - ``git init``
-- ``git submodule add git@git.osoco.es:osoco/osoco-reveal-template``
+- ``git submodule add https://github.com/osoco/osoco-reveal-template``
 - ``git submodule init && git submodule update``
 - ``cp osoco-reveal-template/template.html index.html``
 - Open index.html in any modern browser to check your template.
